@@ -34,8 +34,8 @@ Fig3.jld2:<br />
 Fig4.jld2:<br />
   - Data for the phonon frequency splittings as a function of temperature, extracted from the phonon spectral functions with damping.<br />
   - Ts: Temperature $T$ in units of $J_0$ for the splitting data.<br />
-  - splitting_local_damp: Phonon splitting $\Delta\Omegas$ from the local phonon spectral function, as a function of $T$.<br />
-  - splitting_pp_damp: Phonon splitting $\Delta\Omegas_{\rm pp}$ from the pump-probe ($q=0$) phonon spectral function, as a function of $T$.<br />
+  - splitting_local_damp: Phonon splitting $\Delta\Omega$ from the local phonon spectral function, as a function of $T$.<br />
+  - splitting_pp_damp: Phonon splitting $\Delta\Omega_{\rm pp}$ from the pump-probe ($q=0$) phonon spectral function, as a function of $T$.<br />
   - T_My: Temperature $T$ in units of $J_0$ for the $M_y$ data.<br />
   - My: Octupolar order parameter as a function of $T$.<br />
 
@@ -45,8 +45,8 @@ FigS2a.jld2:<br />
 FigS2b.jld2:<br />
   - Data for the phonon frequency splittings as a function of temperature, extracted from the phonon spectral functions without damping.<br />
   - Ts: Temperature $T$ in units of $J_0$ for the splitting data.<br />
-  - splitting_local: Phonon splitting $\Delta\Omegas$ from the local phonon spectral function, as a function of $T$.<br />
-  - splitting_pp: Phonon splitting $\Delta\Omegas_{\rm pp}$ from the pump-probe ($q=0$) phonon spectral function, as a function of $T$.<br />
+  - splitting_local: Phonon splitting $\Delta\Omega$ from the local phonon spectral function, as a function of $T$.<br />
+  - splitting_pp: Phonon splitting $\Delta\Omega_{\rm pp}$ from the pump-probe ($q=0$) phonon spectral function, as a function of $T$.<br />
   - T_My: Temperature $T$ in units of $J_0$ for the $M_y$ data.<br />
   - My: Octupolar order parameter $M_y$ as a function of $T$.<br />
 
