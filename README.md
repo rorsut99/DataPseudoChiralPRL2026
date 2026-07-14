@@ -31,6 +31,12 @@ Fig3.jld2:<br />
   - spectra_FO_damp: Phonon spectral function in the presence of ferro-octupolar order as a function of $T$ and $\omega$ with damping.<br />
 
 ### Files for Figure 4:
+Fig4.jld2:<br />
+  - Data for the phonon frequency splittings as a function of temperature, extracted from the phonon spectral functions.<br />
+  - Ts: Temperature $T$ in units of $J_0$.<br />
+  - My: Octupolar order parameter as a function of $T$.<br />
+  - splitting_local: Phonon splitting from the local phonon spectral function, as a function of $T$.<br />
+  - splitting_pp: Phonon splitting from the pump-probe ($q=0$) phonon spectral function, as a function of $T$.<br />
 
 ### Files for Figure S2:
 
