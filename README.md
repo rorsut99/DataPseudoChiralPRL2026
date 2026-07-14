@@ -41,6 +41,9 @@ Fig4.jld2:<br />
 
 ### Files for Figure S2:
 FigS2a.jld2:<br />
+  - Data for the local phonon spectral function at temperatures above the transition $T_{\rm FO}$.<br />
+  - Ts: Temperature $T$ in units of $J_0$.<br />
+  - spectra_highT: Phonon spectral function in the presence of ferro-octupolar order as a function of $T$ and $\omega$.<br />
 
 FigS2b.jld2:<br />
   - Data for the phonon frequency splittings as a function of temperature, extracted from the phonon spectral functions without damping.<br />
