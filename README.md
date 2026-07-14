@@ -21,6 +21,14 @@ Fig2bd.jld2:<br />
   - spectra_AFQ: Phonon spectral function in the presence of antiferro-quadrupolar order as a function of $T$ and $\omega$.<br />
 
 ### Files for Figure 3:
+Fig3.jld2:<br />
+  - Data for the pump-probe ($q=0$) phonon spectral function as a function of temperature and frequency, with and without damping.<br />
+  - Ts: Temperature $T$ in units of $J_0$ for the data without damping.<br />
+  - Ts_damp: Temperature $T$ in units of $J_0$ for the data with damping.<br />
+  - omegas: Frequency $\omega$ in units of $J_0$ for the data without damping.<br />
+  - omegas_damp: Frequency $\omega$ in units of $J_0$ for the data with damping.<br />
+  - spectra_FO: Phonon spectral function in the presence of ferro-octupolar order as a function of $T$ and $\omega$ without damping.<br />
+  - spectra_FO_damp: Phonon spectral function in the presence of ferro-octupolar order as a function of $T$ and $\omega$ with damping.<br />
 
 ### Files for Figure 4:
 
